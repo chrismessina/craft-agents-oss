@@ -80,7 +80,7 @@ irm https://thecraftagents.com/install-app.ps1 | iex
 ### Build from Source
 
 ```bash
-git clone https://github.com/lukilabs/craft-agents-oss.git
+git clone https://github.com/craft-ai-agents/craft-agents-oss.git
 cd craft-agents-oss
 bun install
 bun run electron:start
